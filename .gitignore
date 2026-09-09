@@ -16,3 +16,6 @@ env/
 
 # macOS
 .DS_Store
+
+# Claude Code local launch config
+.claude/
