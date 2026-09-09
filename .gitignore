@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Streamlit — config.toml is committed (it carries the theme);
+# secrets.toml never is.
+.streamlit/secrets.toml
+
+# Environment
+.env
+.env.*
+
+# macOS
+.DS_Store
