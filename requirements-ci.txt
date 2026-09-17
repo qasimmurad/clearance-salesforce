@@ -1,0 +1,3 @@
+# Dependencies for the keep-awake GitHub Actions workflow only.
+# Streamlit Community Cloud installs requirements.txt and ignores this file.
+playwright>=1.63,<2
